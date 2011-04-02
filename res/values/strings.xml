@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, home_display!</string>
+    <string name="app_name">Luipoli Fishing Classic</string>
+    <string name="spinner_label">Select A Category</string>
+    <string name="spinner_prompt">Select Category</string>
+    
+    <string-array name="category_array">
+    	<item>Longest Fish Overall</item>
+    	<item>Heaviest Single Fish</item>
+    	<item>Heaviest Total Fish Weight</item>
+    </string-array>
+</resources>
